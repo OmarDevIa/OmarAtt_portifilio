@@ -324,3 +324,9 @@ button:hover {
   text-align: center;
   cursor: pointer;
 }
+
+
+   a {
+      color: inherit;
+      text-decoration: none;
+    }
